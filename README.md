@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Aman Ravi 
+🚀 Automating the Future | DevOps Enthusiast 🛠️
+📍 Ranchi, India 🇮🇳 | MCA '22 Graduate 🎓
+🔗 Connecting Code and Cloud ☁️ | Crafting Continuous Excellence ⚙️
+
+</h2>
 
 ###
 
