@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Aman Ravi 
-🚀 Automating the Future | DevOps Enthusiast 🛠️
-📍 Ranchi, India 🇮🇳 | MCA '22 Graduate 🎓
+<h2 align="left">Hi 👋! My name is Aman Ravi <br>
+🚀 Automating the Future | DevOps Enthusiast 🛠️ <br>
+📍 Ranchi, India 🇮🇳 | MCA '22 Graduate 🎓 <br>
 🔗 Connecting Code and Cloud ☁️ | Crafting Continuous Excellence ⚙️
 
 </h2>
